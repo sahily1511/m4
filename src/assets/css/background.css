@@ -1,0 +1,13 @@
+/*! Landing Page */
+.bg-banner {
+    background-image: url('../svg-images/landing-page/banner.svg');
+    mix-blend-mode: lighten;
+}
+
+.bg-glow-1 {
+    background: radial-gradient(ellipse at center 45%, #EEBA2F25, #EEBA2F10, #EEBA2F00, transparent)
+}
+
+.bg-glow-2 {
+    background: radial-gradient(ellipse at center 45%, #B3B3B325, #b3b3b310, #B3B3B300, transparent)
+}
